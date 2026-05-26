@@ -2,7 +2,7 @@
 
 This project is a front-end skincare website created using HTML and CSS. The website is designed to provide skincare information, skin type recommendations, skincare routines, and dermatologist-advised tips through a clean and modern UI layout.
 
-
+Live demo: https://sanskruti-devkar.github.io/Skincare-website/
 
 ## Features
 
